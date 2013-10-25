@@ -1,0 +1,26 @@
+/*.otherdiv{
+width: 50px;
+height: 50px;
+background-color: black;
+
+position: absolute;
+}
+.otherdiv:hover{
+width:100px;
+height: 100px;
+background-color: blue;
+-moz-transition:all 12s;
+-ms-transition:top 2s;
+top: 10px;
+left: 10px
+*/
+input{
+	padding: 10px;
+	font-size:20px;
+	}
+input:focus{
+border: solid;
+color: red;
+}
+
+
